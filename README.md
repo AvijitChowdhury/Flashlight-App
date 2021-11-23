@@ -4,7 +4,7 @@
 2.Dexter
 
 ###App preview
-<img src="./image/Flashlight app photo.jpg" width="300px">
+<img src="./image/Flashlight app photo.jpg" width="300px" height="600px">
 =======
 ### Flashlight-App
 
